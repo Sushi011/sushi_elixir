@@ -15,4 +15,7 @@ defmodule Sushi do
   def subtraction_of_two_numbers(num1, num2) do
     num1 -num2
   end
+  def division_of_two_numbers(num1, num2) do
+    num1 / num2
+  end
 end
